@@ -1,6 +1,4 @@
 # SIRD Disease Modeling and Analysis Project
-## Krutal Patel & Faiza Shaik
-
 ### Johns Hopkins University Department of Chemical and Biomolecular Engineering
 ### Johns Hopkins University Department of Applied Mathematics and Statistics
 
@@ -11,3 +9,4 @@ Research Goal:
 
 <img width="650" alt="Project Poster" src="C:\Users\disc2\Downloads\SIRD_project.jpg">
 
+#### Krutal Patel & Faiza Shaik
