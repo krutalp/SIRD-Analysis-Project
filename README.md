@@ -9,5 +9,5 @@ Research Goal:
 2. Simulated disease progression using Markov Chain Monte Carlo methods
 3. Analyzed and tested model with real world data 
 
-<iframe width="100%" height="800" src="file:///C:/Users/disc2/Desktop/SIRD_project.pdf">
+<img width="650" alt="Project Poster" src="C:\Users\disc2\Downloads\SIRD_project.jpg">
 
